@@ -15,4 +15,4 @@ This project was developed as a learning exercise in numerical methods and compu
 Requires a C compiler (e.g., `gcc`).
 
 ```bash
-gcc wave_sim.c -o tsunami_sim -lm
+gcc tsunami.c -o tsunami_sim -lm
